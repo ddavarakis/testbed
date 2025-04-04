@@ -1,3 +1,4 @@
 /PointNet/trained_models/*
+/PointNet++/trained_models/*
 /PointNet++/log/*
 **/__pycache__/
